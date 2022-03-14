@@ -1,0 +1,47 @@
+{
+  "name": "Vendor",
+  "maxSpace": 300,
+  "currentMoney": 2000,
+  "items": [
+    {
+      "name": "Bread",
+      "cost": 50,
+      "size": 10,
+      "rarity": 0,
+      "count": 10,
+      "attributes": [ "brown", "tasty", "healthy" ]
+    },
+    {
+      "name": "Potion",
+      "cost": 300,
+      "size": 5,
+      "rarity": 1,
+      "count": 20,
+      "attributes": [ "red", "healthy" ]
+    },
+    {
+      "name": "Poison",
+      "cost": 500,
+      "size": 2,
+      "rarity": 2,
+      "count": 10,
+      "attributes": [ "green", "deadly" ]
+    },
+    {
+      "name": "Wolf pelt",
+      "cost": 40,
+      "size": 5,
+      "rarity": 2,
+      "count": 10,
+      "attributes": [ "black", "hairy" ]
+    },
+    {
+      "name": "Baron bloody flag",
+      "cost": 300,
+      "size": 100,
+      "rarity": 0,
+      "count": 1,
+      "attributes": [ "red", "very big" ]
+    }
+  ]
+}

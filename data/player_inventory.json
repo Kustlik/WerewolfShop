@@ -1,0 +1,47 @@
+{
+  "name": "{PUT_HERE_YOUR_NAME}",
+  "maxSpace": 300,
+  "currentMoney": 1000,
+  "items": [
+    {
+      "name": "Bread",
+      "cost": 50,
+      "size": 10,
+      "rarity": 0,
+      "count": 2,
+      "attributes": [ "brown", "tasty", "healthy" ]
+    },
+    {
+      "name": "Potion",
+      "cost": 300,
+      "size": 5,
+      "rarity": 1,
+      "count": 20,
+      "attributes": [ "red", "healthy" ]
+    },
+    {
+      "name": "Vampire Tooth",
+      "cost": 500,
+      "size": 5,
+      "rarity": 0,
+      "count": 4,
+      "attributes": [ "red", "bloody" ]
+    },
+    {
+      "name": "Unicorn",
+      "cost": 50,
+      "size": 30,
+      "rarity": 2,
+      "count": 1,
+      "attributes": [ "rainbow", "healthy" ]
+    },
+    {
+      "name": "Geralt Mask",
+      "cost": 20,
+      "size": 65,
+      "rarity": 0,
+      "count": 1,
+      "attributes": [ "grey", "alluring" ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+﻿  interface.cpp
+  inventory_item.cpp
+  inventory_panel.cpp
+  vendor_item.cpp
+  vendor_panel.cpp
+  Generating Code...
+  interface.vcxproj -> D:\Cdp Ui Task 2017\UI_Programmer_Recruitment_Task\Code\bin\x64.\interface.lib

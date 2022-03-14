@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="pch.cpp" />
+    <ClCompile Include="interface.cpp" />
+    <ClCompile Include="inventory_panel.cpp" />
+    <ClCompile Include="canvas.cpp" />
+    <ClCompile Include="inventory_item.cpp" />
+    <ClCompile Include="vendor_panel.cpp" />
+    <ClCompile Include="vendor_item.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="pch.h" />
+    <ClInclude Include="interface.h" />
+    <ClInclude Include="inventory_panel.h" />
+    <ClInclude Include="canvas.h" />
+    <ClInclude Include="inventory_item.h" />
+    <ClInclude Include="vendor_panel.h" />
+    <ClInclude Include="vendor_item.h" />
+  </ItemGroup>
+</Project>
